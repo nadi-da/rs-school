@@ -101,26 +101,25 @@ GLO Academy
 11/2016 - 12/2016 
 GLO Academy
 
-
 ***
 
 ## Examples of the projects:
 
+- [garda-opt.ru](https://garda-opt.ru/)
+
+**Task**: Website Redesign 
+
+**Responsibilities**: Everything you see on the frontend is my work, as well as most of the backend.
+
+**Used**: HTML • CSS • JS • JQuery • Bitrix • PHP • Photoshop • Illustrator
+
 - [evroplast.ru](https://evroplast.ru/)
 
-**Task**: desktop version redesign 
+**Task**: Website Redesign 
 
-**Responsibilities**: coding and working with Bitrix on pages:  
-[homepage](https://evroplast.ru/)  
-[gallery](https://evroplast.ru/gallery/) and [single gallery page](https://evroplast.ru/gallery/64686)  
-[news](https://evroplast.ru/mag/#all) and [single news page](https://evroplast.ru/mag/92149)  
-[catalogue](https://evroplast.ru/catalogue/) and [single product page](https://evroplast.ru/catalogue/interernyj-dekor/karnizy/1-50-298)  
-[collection](https://evroplast.ru/collection/) and [single collection page](https://evroplast.ru/collection/mauritania)
-[downloads](https://evroplast.ru/download/)  
-[cart](https://evroplast.ru/cart/)  
-[personal account](https://evroplast.ru/personal/)
+**Responsibilities**: This time I wrote 100% front-end and 95% back-end code. I also completely redesigned the catalog using ajax requests without completely reloading the page, which increased the speed of content delivery by 15%. In addition, the search was completely redesigned, which increased the search speed by 30% and reduced the server load by 60%.
 
-**Used**: HTML5/CSS, JS, jQuery, Bitrix (only database and core, without any default components)
+**Used**: HTML • CSS • JS • JQuery • Bitrix • PHP • Figma • Photoshop • Illustrator
 
 - [novaya.by](https://www.novaya.by/)
 
@@ -128,15 +127,21 @@ GLO Academy
 
 **Responsibilities**: coding and working with WordPress
 
-**Used**: HTML5/CSS, JS, jQuery, WordPress
+**Used**: HTML • CSS • JS • JQuery • WordPress • PHP  • Photoshop 
 
 - [bestsleep.ru](http://bestsleep.portu.by/)
 
 **Task:** development from scratch.
 
-**Responsibilities:** the whole site – coding and working with Bitrix. The project is still in development, only desktop version is ready.
+**Responsibilities:** 
+• PSD to HTML (including mobile layout)
+• HTML to CMS Bitrix
+• connecting of web analytics services
+• connection of the payment system
+• support and maintenance
+• image processing and content addition
 
-**Used:** HTML5/CSS, JS, jQuery, Bitrix (only database and core, without any default components)
+**Used:** HTML • CSS • JS • JQuery • Bitrix • PHP • Photoshop • Illustrator
 
 ***
 
