@@ -62,42 +62,45 @@ Customs Officer
 
 ## Education
 
-#### JavaScript/Front-end Development
+#### Bachelor (retraining) in Programming - Web design
 
-06.09.2020 – present  
-RS Scholl
+09/2013 - 09/2015  
+School of Business BSU
+Belarus, Minsk
 
-#### Spoken English (courses)
+#### Bachelor in Customs Affairs
 
-01.09.2019 – 31.09.2020  
-Centre for Foreign Languages Study «Universum» at the Polotsk State University
+09/2006 - 06/2011  
+Belarusian National Technical University (BNTU)
+Belarus, Minsk
 
-#### Spoken English (courses)
+## Certifications
 
-01.09.2018 – 31.09.2019  
-Centre for Foreign Languages Study «Universum» at the Polotsk State University
+#### Frontend Development
 
-#### Web-designer (courses)
+01/2024 - 03/2024  
+Scrimba (Coursera)
 
-25.12.2016 – 10.02.2017  
+#### React Basics
+
+01/2024 - 02/2024 
+Meta (Coursera)
+    
+#### Spoken English
+
+09/2018 - 09/2020  
+Centre for Foreign Languages Study «Universum» (PSU)
+
+#### Web designer
+
+12/2016 - 02/2017 
 GLO Academy
 
-#### Web-developer 4.0 (courses)
+#### Web developer
 
-15.11.2016 – 30.12.2016  
-GLO Academy  
-    
-#### Programmer-web designer (retraining)
+11/2016 - 12/2016 
+GLO Academy
 
-09.09.2013 – 08.09.2015  
-School of Business and Management of Technology of BSU
-
-
-
-#### Expert of customs affairs
-
-01.09.2006 – 30.06.2011  
-Belarusian National Technical University (BNTU)
 
 ***
 
