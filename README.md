@@ -38,9 +38,8 @@ Children:		1 son
 - hands-on experience with Bitrix, WordPress, Joomla, Opencart
 
 #### Soft skills:
-- expert knowledge of using Photoshop
-- experience with FIgma
-- experience with gulp
+- Photoshop | Figma
+- Gulp
 - English - B1 
 
 ***
