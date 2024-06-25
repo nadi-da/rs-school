@@ -71,7 +71,7 @@ Belarus, Minsk
 #### Bachelor in Customs Affairs
 
 09/2006 - 06/2011  
-Belarusian National Technical University (BNTU)
+Belarusian National Technical University (BNTU)  
 Belarus, Minsk
 
 ## Certifications
@@ -83,7 +83,7 @@ Scrimba (Coursera)
 
 #### React Basics
 
-01/2024 - 02/2024 
+01/2024 - 02/2024  
 Meta (Coursera)
     
 #### Spoken English
@@ -93,12 +93,12 @@ Centre for Foreign Languages Study «Universum» (PSU)
 
 #### Web designer
 
-12/2016 - 02/2017 
+12/2016 - 02/2017  
 GLO Academy
 
 #### Web developer
 
-11/2016 - 12/2016 
+11/2016 - 12/2016  
 GLO Academy
 
 ***
