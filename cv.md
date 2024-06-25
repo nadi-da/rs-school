@@ -100,3 +100,59 @@ GLO Academy
 
 11/2016 - 12/2016  
 GLO Academy
+
+***
+
+## Examples of the projects:
+
+- [garda-opt.ru](https://garda-opt.ru/)
+
+**Task**: Website Redesign 
+
+**Responsibilities**: Everything you see on the frontend is my work, as well as most of the backend.
+
+**Used**: HTML • CSS • JS • JQuery • Bitrix • PHP • Photoshop • Illustrator
+
+- [evroplast.ru](https://evroplast.ru/)
+
+**Task**: Website Redesign 
+
+**Responsibilities**: This time I wrote 100% front-end and 95% back-end code. I also completely redesigned the catalog using ajax requests without completely reloading the page, which increased the speed of content delivery by 15%. In addition, the search was completely redesigned, which increased the search speed by 30% and reduced the server load by 60%.
+
+**Used**: HTML • CSS • JS • JQuery • Bitrix • PHP • Figma • Photoshop • Illustrator
+
+- [novaya.by](https://www.novaya.by/)
+
+**Task:** [homepage](https://www.novaya.by/) redesign and creating [the Memory Gallery](https://www.novaya.by/memory_gallery/)
+
+**Responsibilities**: coding and working with WordPress
+
+**Used**: HTML • CSS • JS • JQuery • WordPress • PHP  • Photoshop 
+
+- [best-sleep.ru](https://best-sleep.ru/)
+
+**Task:** development from scratch.
+
+**Responsibilities:** 
+• PSD to HTML (including mobile layout)
+• HTML to CMS Bitrix
+• connecting of web analytics services
+• connection of the payment system
+• support and maintenance
+• image processing and content addition
+
+**Used:** HTML • CSS • JS • JQuery • Bitrix • PHP • Photoshop • Illustrator
+
+***
+
+## About me
+
+I value my time and respect yours. As I’m working remotely, I need to be efficient and self-disciplined, so I am interested in time management and psychology.  I like working on interesting projects and unusual tasks. I am lifelong learner; studying is an important part of my life.
+
+***
+
+## Additional Skills
+
+Languages: 	German – B1
+
+Driving License (Category B)
