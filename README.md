@@ -129,7 +129,7 @@ GLO Academy
 
 **Used**: HTML • CSS • JS • JQuery • WordPress • PHP  • Photoshop 
 
-- [bestsleep.ru](http://bestsleep.portu.by/)
+- [best-sleep.ru](https://best-sleep.ru/)
 
 **Task:** development from scratch.
 
